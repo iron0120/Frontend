@@ -1,0 +1,57 @@
+.header{
+    background-color: black;
+}
+.inner-header{
+    background-color: #101010 ;
+
+    margin: 0 40px;
+}
+.logo-container{
+    color: white;
+    display: inline-block;
+}
+
+.navigation{
+    float: right;
+    height: 100%;
+}
+.navigation a{
+    height: 100%;
+    display: table;
+    float: left;
+    padding: 0px 20px;
+    background-color: #101010;
+}
+ 
+.navigation a li{
+    vertical-align: middle;
+    display: inline-block;
+    font-size: 20px;
+    color: white;
+}
+ 
+.navigation a:hover{
+    background-color: gray;
+    color: #101010;
+}
+
+.leftimg {
+    float:left;
+    margin: 7px 7px 7px 0;
+   }
+
+.about {
+    width: 800px;
+    font-size: 24px;
+}
+
+.about img{
+    width: 180px;
+    height: 320px;
+}
+
+.content {
+    width: 800px;
+    height: 400px;
+    font-size: 18px;
+}
